@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SFVSaveUnFer")]
+[assembly: AssemblyTitle("StreetFighterVSaveManager")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SFVSaveUnFer")]
-[assembly: AssemblyCopyright("Copyright TheOriginalSINe©  2016")]
+[assembly: AssemblyProduct("StreetFighterVSaveManager")]
+[assembly: AssemblyCopyright("Copyright OriginalSINe © 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

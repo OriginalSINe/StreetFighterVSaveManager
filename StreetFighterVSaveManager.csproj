@@ -7,8 +7,8 @@
     <ProjectGuid>{1204248E-6003-41AC-9847-989F4ED6DFE6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SFVSaveUnFer</RootNamespace>
-    <AssemblyName>SFVSaveUnFer</AssemblyName>
+    <RootNamespace>StreetFighterVSaveManager</RootNamespace>
+    <AssemblyName>StreetFighterVSaveManager</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="src\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

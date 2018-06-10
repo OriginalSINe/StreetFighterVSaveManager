@@ -26,7 +26,7 @@ namespace SFVSaveUnFer
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the SFV Save UnF***er!");
+            Console.WriteLine("Welcome to the SFV Save Manager!");
             Console.WriteLine();
 
             Console.WriteLine("Backup Process begin.");
@@ -53,7 +53,7 @@ namespace SFVSaveUnFer
 
             Console.WriteLine("Restore process complete!");
             Console.WriteLine();
-            Console.WriteLine("Thanks for using the SFV Save UnF***er!");
+            Console.WriteLine("Thanks for using the SFV Save Manager!");
             Console.WriteLine("Press Enter to exit...");
             Console.ReadLine();
         }
