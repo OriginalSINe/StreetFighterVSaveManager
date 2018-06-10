@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("StreetFighterVSaveManager")]
-[assembly: AssemblyCopyright("Copyright OriginalSINe © 2016")]
+[assembly: AssemblyCopyright("Copyright OriginalSINe © 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
